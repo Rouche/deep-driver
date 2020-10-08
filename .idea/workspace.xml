@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="03a11333-61b8-44e5-a353-d193f93d5673" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/DeLorean/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/DeLorean/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="03a11333-61b8-44e5-a353-d193f93d5673" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,8 +72,16 @@
       <workItem from="1602196642318" duration="417000" />
       <workItem from="1602197076886" duration="74000" />
       <workItem from="1602197191909" duration="254000" />
-      <workItem from="1602197471790" duration="1130000" />
+      <workItem from="1602197471790" duration="1447000" />
     </task>
+    <task id="LOCAL-00001" summary="2 more libs">
+      <created>1602198885330</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602198885330</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,12 +89,22 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
+    <MESSAGE value="2 more libs" />
+    <option name="LAST_COMMIT_MESSAGE" value="2 more libs" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1240" y="330" key="#Project_Structure" timestamp="1602197137807">
       <screen x="-1440" y="-511" width="1440" height="2520" />
     </state>
     <state x="-1240" y="330" key="#Project_Structure/-1440.-511.1440.2520/0.0.2560.1400@-1440.-511.1440.2520" timestamp="1602197137807" />
+    <state x="-1095" y="324" key="CommitChangelistDialog2" timestamp="1602198883947">
+      <screen x="-1440" y="-511" width="1440" height="2520" />
+    </state>
+    <state x="-1095" y="324" key="CommitChangelistDialog2/-1440.-511.1440.2520/0.0.2560.1400@-1440.-511.1440.2520" timestamp="1602198883947" />
+    <state x="-1340" y="-404" width="1240" height="2320" key="DiffContextDialog" timestamp="1602198922066">
+      <screen x="-1440" y="-511" width="1440" height="2520" />
+    </state>
+    <state x="-1340" y="-404" width="1240" height="2320" key="DiffContextDialog/-1440.-511.1440.2520/0.0.2560.1400@-1440.-511.1440.2520" timestamp="1602198922066" />
     <state x="-941" y="497" key="FileChooserDialogImpl" timestamp="1602197040114">
       <screen x="-1440" y="-511" width="1440" height="2520" />
     </state>
@@ -109,6 +125,10 @@
       <screen x="-1440" y="-511" width="1440" height="2520" />
     </state>
     <state width="1380" height="666" key="GridCell.Tab.0.right/-1440.-511.1440.2520/0.0.2560.1400@-1440.-511.1440.2520" timestamp="1602198405954" />
+    <state x="-1128" y="489" key="Vcs.Push.Dialog.v2" timestamp="1602198886775">
+      <screen x="-1440" y="-511" width="1440" height="2520" />
+    </state>
+    <state x="-1128" y="489" key="Vcs.Push.Dialog.v2/-1440.-511.1440.2520/0.0.2560.1400@-1440.-511.1440.2520" timestamp="1602198886775" />
     <state x="-1083" y="353" key="new project wizard" timestamp="1602197042261">
       <screen x="-1440" y="-511" width="1440" height="2520" />
     </state>
