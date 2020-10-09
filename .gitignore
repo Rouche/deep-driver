@@ -130,6 +130,7 @@ local.properties
 ######################
 #.idea/
 # *.iml
+workspace.xml
 *.iws
 *.ipr
 *.ids

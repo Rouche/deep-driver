@@ -109,7 +109,7 @@ ego_cam.listen(save_image)
 try:
     while current < 302:
         world_snapshot = world.wait_for_tick()
-        clear_output(wait=True)
+        # clear_output(wait=True)
         # display(f"{str(current)} frames saved")
         current += 1
 except:
