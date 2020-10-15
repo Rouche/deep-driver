@@ -61,7 +61,7 @@ model.summary()
 #%%
 
 from tensorflow.keras.utils import plot_model
-plot_model(model, to_file="./generated/model.png", show_shapes=True, show_layer_names=True)
+plot_model(model, to_file="./generated/model_wine.png", show_shapes=True, show_layer_names=True)
 
 #%%
 

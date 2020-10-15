@@ -9,6 +9,7 @@ Original file is located at
 The MNIST database (Modified National Institute of Standards and Technology database) is a large database of handwritten digits that is commonly used for training various image processing systems. The database is also widely used for training and testing in the field of machine learning.
 """
 
+import os
 #Install TensorFlow
 import tensorflow as tf
 
@@ -82,7 +83,12 @@ model.compile(optimizer='adam',
               loss=loss_fn,
               metrics=['accuracy'])
 
-tf.keras.utils.plot_model(model, to_file="./generated/model.png", show_shapes=True)
+directory = './generated/'
+try:
+    os.makedirs(directory)
+except:
+    print("Directory already exists: [" + directory + "]")
+tf.keras.utils.plot_model(model, to_file=f"{directory}model_mlp.png", show_shapes=True)
 
 model.summary()
 
