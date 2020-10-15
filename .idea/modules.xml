@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/DeLorean/DeLorean.iml" filepath="$PROJECT_DIR$/DeLorean/DeLorean.iml" />
       <module fileurl="file://$PROJECT_DIR$/Formations/GFT-AutonomousWorkshop/GFT-AutonomousWorkshop.iml" filepath="$PROJECT_DIR$/Formations/GFT-AutonomousWorkshop/GFT-AutonomousWorkshop.iml" />
       <module fileurl="file://$PROJECT_DIR$/Formations/GFT-IntroDeepLearning/GFT-IntroDeepLearning.iml" filepath="$PROJECT_DIR$/Formations/GFT-IntroDeepLearning/GFT-IntroDeepLearning.iml" />
       <module fileurl="file://$PROJECT_DIR$/Formations/JEFF-Playgrounds/JEFF-Playgrounds.iml" filepath="$PROJECT_DIR$/Formations/JEFF-Playgrounds/JEFF-Playgrounds.iml" />
