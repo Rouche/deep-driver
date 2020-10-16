@@ -1,4 +1,7 @@
-Run jupyter-notebook
+
+## Notebook
+
+Run `C:>jupyter-notebook`
 
 ## Functional API
 
