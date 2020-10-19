@@ -1,8 +1,16 @@
 
 ### Resources
 
-Labs
-https://github.com/GoogleCloudPlatform/training-data-analyst/blob/master/courses/machine_learning/deepdive2/introduction_to_tensorflow/labs
+GitHub Labs
+
+https://github.com/GoogleCloudPlatform/training-data-analyst
+
+#### Introduction to Tensorflow
+
+[Lab 1 - Tensor Variables](./training-data-analyst/courses/machine_learning/deepdive2/introduction_to_tensorflow/labs/tensors-variables.ipynb)  
+[Lab 2 - Low-Level Tensor](./training-data-analyst/courses/machine_learning/deepdive2/introduction_to_tensorflow/labs/write_low_level_code.ipynb)  
+[Lab 3 - Load CSV and Numpy File Types](./training-data-analyst/courses/machine_learning/deepdive2/introduction_to_tensorflow/labs/load_diff_filedata.ipynb)  
+
 
 ### Issues
 

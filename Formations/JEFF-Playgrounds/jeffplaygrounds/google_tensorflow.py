@@ -23,7 +23,7 @@ x3 = tf.stack([x2, x2, x2])
 x4 = tf.stack([x3, x3])
 print(x4.shape)
 
-y = tf.constant([[1, 12, 3], [1, 32, 3]])
+y = tf.constant([[1, 12, 3], [1, 32, 3]], dtype=tf.dtypes.float32)
 y1 = y[:, 1]
 print(y1)
 
@@ -41,4 +41,4 @@ def compute_gradient(u, v, w0, w1):
 w0 = tf.Variable(0.0)
 w1 = tf.Variable(0.0)
 
-dw0, dw1 = compute_gradient(u, v, w0, w1)
+# dw0, dw1 = compute_gradient(u, v, w0, w1)
